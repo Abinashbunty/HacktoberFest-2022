@@ -1,7 +1,8 @@
-# Hack The HacktoberFest-2022
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/Women-In-Engineering-IEEE-CUSB/HacktoberFest-2022) , There we are merging all PR. 
+## Hack The HacktoberFest-2022
 
-# Contribution Rules📚:
+### Submit your PR on this new repo [Hacktoberfest](https://github.com/Women-In-Engineering-IEEE-CUSB/HacktoberFest-2022) , There we are merging all PR. 
+
+### Contribution Rules📚:
 
 - You are allowed to make pull requests that break the rules. We just merge it ;)
 - Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
@@ -10,7 +11,7 @@
 - Add your name to the contributorsList file
 - Try to keep pull requests small to minimize merge conflicts
 
-## Getting Started 🤩🤗:
+### Getting Started 🤩🤗:
 
 - Fork this repo (button on top)
 - Clone on your local machine
@@ -20,7 +21,7 @@ git clone https://github.com/Women-In-Engineering-IEEE-CUSB/HacktoberFest-2022.g
 ```
 - Navigate to project directory.
 ```terminal
-cd Hacktoberfest2022
+cd Hacktoberfest-2022
 ```
 
 - Create a new Branch
